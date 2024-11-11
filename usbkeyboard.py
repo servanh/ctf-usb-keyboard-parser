@@ -57,7 +57,14 @@ KEY_CODES = {
     0x4f:[u'→',u'→'],
     0x50:[u'←',u'←'],
     0x51:[u'↓',u'↓'],
-    0x52:[u'↑',u'↑']
+    0x52:[u'↑',u'↑'],
+    0x58:['[Keypad ENTER]','[Keypad Enter]'],
+    0x5A:['[Keypad 2 and Down Arrow]','[Keypad 2 and Down Arrow]'],
+    0x5C:['[Keypad 4 and Left Arrow]','[Keypad 4 and Left Arrow]'],
+    0x5F:['[Keypad 7 and Home]','[Keypad 7 and Home]'],
+    0x60:['[Keypad 8 and Up Arrow]','[Keypad 8 and Up Arrow]'],
+    0x61:['[Keypad 9 and PageUp]','[Keypad 9 and PageUp]']
+
 }
 
 
